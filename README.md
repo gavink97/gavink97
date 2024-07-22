@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Gavin Kondrath</h1>
 <p align="center">
   <a href="https://www.instagram.com/gavin_kondrath/">Instagram</a> •
-  <a href="tiktok.com/@gavin_kondrath">TikTok</a> •
+  <a href="https://tiktok.com/@gavin_kondrath">TikTok</a> •
   <a href="https://www.youtube.com/@GavinKondrath">YouTube</a>
 </p>
 
