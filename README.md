@@ -1,55 +1,19 @@
-<style>
-
-section {
-     margin-bottom: 2.4em;
-}
-
-li {
-    font-size: 12pt;
-    margin-bottom: 3px;
-}
-
-.main {
-    margin-left: 30px;
-    margin-right: 30px;
-}
-
-.social-links a {
-    margin-right: 22px;
-  }
-
-.social-links a:last-child {
-    margin-right: 0;
-  }
-
-.social-icon {
-    width: 38px;
-    height: 38px;
-    margin-right: 5px;
-}
-
-#hand {
-    vertical-align: middle;
-    height: 1em;
-    margin-bottom: 0.2em;
-}
-
-</style>
-
-<div class="main">
 <section>
-<h1 align="center" style="font-size: 30pt;">
-    <img src="./assets/waving-hand.gif" alt="Waving Hand" id="hand">
+<h1 align="center">
+    <img src="./assets/waving-hand.gif" alt="Waving Hand" style="vertical-align: middle; height: 1em;">
     Hello There! I'm Gavin Kondrath
 </h1>
 
-<div align="center" class="social-links" style="margin-top:-0.5em; margin-bottom:2em;">
-  <a href="https://www.linkedin.com/in/gavin-kondrath/">LinkedIn</a>
-  <a href="https://www.instagram.com/gavin_kondrath/">Instagram</a>
-  <a href="https://tiktok.com/@gavin_kondrath">TikTok</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/gavin-kondrath/">LinkedIn</a> -
+  <a href="https://www.instagram.com/gavin_kondrath/">Instagram</a> -
+  <a href="https://tiktok.com/@gavin_kondrath">TikTok</a> -
   <a href="https://www.youtube.com/@GavinKondrath">YouTube</a>
 </div>
 </section>
+
+<br/>
+<br/>
 
 <section>
     <ul>
@@ -57,25 +21,65 @@ li {
         <li>🔥 Self Taught Software Engineer</li>
         <li>👩🏻‍🎓 Studied Korean language & Culture at Korea University in Seoul</li>
         <li>🏫 고려대학교 한국어교육관 다녔습니다</li>
-        <li>🌏 Loves eating street food from around the globe</li>
+        <li>🌏 Loves street food from around the globe</li>
         <li>🌱 Currently learning Golang + HTMX</li>
     </ul>
 </section>
 
-<div align="left" style="padding-left: 19px; padding-top: 10px;">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" class="social-icon" alt="Python logo" /></a>
-<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" class="social-icon" alt="Golang logo" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" class="social-icon" alt="TypeScript logo" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" class="social-icon" alt="Tailwindcss logo" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" class="social-icon" alt="React logo" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" class="social-icon" alt="Git logo" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" class="social-icon" alt="Docker logo" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" class="social-icon" alt="Linux logo" /></a>
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" class="social-icon" alt="Vim logo" /></a>
+<br/>
+
+<div align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg">
+ <img alt="Python logo" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="38" height="38">
+</picture></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg">
+ <img alt="Golang logo" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="38" height="38">
+</picture></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg">
+ <img alt="TypeScript logo" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="38" height="38">
+</picture></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg">
+ <img alt="Tailwindcss logo" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="38" height="38">
+</picture></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg">
+ <img alt="React logo" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="38" height="38">
+</picture></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg">
+ <img alt="Git logo" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="38" height="38">
+</picture></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg">
+ <img alt="Docker logo" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="38" height="38">
+</picture></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg">
+ <img alt="Linux logo" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="38" height="38">
+</picture></a>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg">
+ <img alt="Vim logo" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="38" height="38">
+</picture></a>
 </div>
 
 <img src="./profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph">
 
-<div style="margin-top:5em"/>
-<h2 align="center" style="font-size:30pt;">Repositories</h2>
-</div>
+<br/>
+<br/>
+<br/>
+
+<h2 align="center">Repositories</h2>
