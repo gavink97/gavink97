@@ -1,6 +1,6 @@
 <section>
 <h1 align="center">
-    <img src="./assets/waving-hand.gif" alt="Waving Hand" style="vertical-align: middle; height: 1em;">
+    <img src="./assets/waving-hand.gif" alt="Waving Hand" width="40" height="40" style="vertical-align: middle;">
     Hello There! I'm Gavin Kondrath
 </h1>
 
