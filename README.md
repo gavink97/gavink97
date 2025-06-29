@@ -18,11 +18,10 @@
 <section>
     <ul>
         <li>🏠 Raised in Austin, Texas, USA</li>
-        <li>🔥 Self Taught Software Engineer</li>
         <li>👩🏻‍🎓 Studied Korean language & Culture at Korea University in Seoul</li>
         <li>🏫 고려대학교 한국어교육관 다녔습니다</li>
-        <li>🌏 Loves street food from around the globe</li>
-        <li>🌱 Currently learning Golang + HTMX</li>
+        <li>🌏 Loves street food and learning new languages</li>
+        <li>🌱 Sustainable web development advocate</li>
     </ul>
 </section>
 
@@ -44,16 +43,6 @@
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg">
  <img alt="TypeScript logo" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="38" height="38">
 </picture></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg">
- <img alt="Tailwindcss logo" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="38" height="38">
-</picture></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg">
- <img alt="React logo" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="38" height="38">
-</picture></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-dark.svg">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg">
@@ -64,15 +53,15 @@
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg">
  <img alt="Docker logo" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="38" height="38">
 </picture></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg">
- <img alt="Linux logo" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="38" height="38">
-</picture></a>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-dark.svg">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg">
  <img alt="Vim logo" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="38" height="38">
+</picture></a>
+<a href="https://nixos.org/" target="_blank" rel="noreferrer"><picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake-white.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake-colours.svg">
+ <img alt="nixos logo" src="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake-colours.svg" width="38" height="38">
 </picture></a>
 </div>
 
